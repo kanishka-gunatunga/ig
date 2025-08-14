@@ -1,0 +1,42 @@
+{
+  "nav": [
+    {
+      "nav_name": "Home",
+      "link": "/",
+      "type": "",
+      "full_width": false,
+      "sub_nav": []
+      
+    },
+    {
+      "nav_name": "About",
+      "link": "/about",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Services",
+      "link": "/service",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Portfolio",
+      "link": "/portfolio-v3",
+      "type": "",
+      "sub_nav": []
+    }, 
+    {
+      "nav_name": "Blog",
+      "link": "blog",
+      "type": "",
+      "sub_nav": []  
+    },
+    {
+      "nav_name": "Contact",
+      "link": "/contact",
+      "type": "",
+      "sub_nav": []
+    }
+  ]
+}
